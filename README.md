@@ -22,20 +22,20 @@
 
 ### Исходное изображение ###
 
-![Исходное изображение](https: // github.com / Garmonik / Arts_from_pictures / blob / main / img / test1.jpg)
+![Исходное изображение](https://github.com/Garmonik/Arts_from_pictures/blob/main/img/test1.jpg)
 
 ### ASCII_black изображение ###
 
-![ASCII_black](https: // github.com / Garmonik / Arts_from_pictures / blob / main / res / ascii_apt_black.png)
+![ASCII_black](https://github.com/Garmonik/Arts_from_pictures/blob/main/res/ascii_apt_black.png)
 
 ### ASCII_color изображение ###
 
-![ASCII_color](https: // github.com / Garmonik / Arts_from_pictures / blob / main / res / ascii_apt_color.png)
+![ASCII_color](https://github.com/Garmonik/Arts_from_pictures/blob/main/res/ascii_apt_color.png)
 
 ### PIXEL изображение ###
 
-![PIXEL](https: // github.com / Garmonik / Arts_from_pictures / blob / main / res / pixel_art.png)
+![PIXEL](https://github.com/Garmonik/Arts_from_pictures/blob/main/res/pixel_apt.png)
 
 ### MATRIX изображение ###
 
-![MATRIX](https: // github.com / Garmonik / Arts_from_pictures / blob / main / res / matrix_apt.png)
+![MATRIX](https://github.com/Garmonik/Arts_from_pictures/blob/main/res/matrix_apt.png)
